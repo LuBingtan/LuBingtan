@@ -20,3 +20,5 @@ jobs:
           base: header
           config_timezone: Asia/Shanghai
           plugin_notable: yes
+          plugin_followup: yes
+          plugin_followup_sections: user
